@@ -1,0 +1,12 @@
+*{
+    background: black
+}
+
+.card{
+    color: white;
+    text-align: center;
+}
+
+li{
+    text-decoration: none;
+}
